@@ -1,5 +1,5 @@
 # Star Wars Repo
 
-![tie.jpg](TIE_FIGHTER)
+![TIE_FIGHTER](tie.jpg)
 
 Este repositório serve de exemplo pro curso de git
