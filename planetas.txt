@@ -2,3 +2,4 @@ alderan
 coruscant
 endor
 tatooine
+terra
